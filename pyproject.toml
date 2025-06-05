@@ -1,0 +1,11 @@
+[project]
+name = "q4-class-assignment-1-smart-student-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=1.84.0",
+    "openai-agents>=0.0.17",
+    "python-dotenv>=1.1.0",
+]
